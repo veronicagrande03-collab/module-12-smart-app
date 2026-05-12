@@ -1,4 +1,6 @@
 # module-12-smart-app
+Author
+This project was created as a beginner Python assignment for practice and learning.
 mart Text Analyzer & Live Data App
 About the Project
 
